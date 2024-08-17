@@ -1,0 +1,4 @@
+*.sqlit3
+.idea/
+Venv/
+__pycache__/
